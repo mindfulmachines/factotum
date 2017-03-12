@@ -1,0 +1,8 @@
+[user]
+       	name = Jane Smith 
+       	email = jane@smith.com
+[core]
+       	excludesfile = /Users/jane/.gitignore_global
+       	autocrlf = input
+[push]
+       	default = simple
