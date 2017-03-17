@@ -67,6 +67,8 @@ let g:NERDTreeMapPreview="<F4>"
 
 let g:neocomplete#enable_at_startup = 1
 
+"yo!!!! shoutout to my homie: @frenchsam
+
 " Vim notes
 let g:notes_directories = ['~/Documents/Notes/VimNotes']
 let g:notes_title_sync = 'no'
