@@ -5,6 +5,7 @@ git_bundles = [
   "git://github.com/xolox/vim-misc.git",
   "git://github.com/xolox/vim-notes.git",
   "git://github.com/myusuf3/numbers.vim.git",
+  "git://github.com/shime/vim-livedown.git",
   "git://github.com/ervandew/supertab.git",
   "git://github.com/godlygeek/tabular.git",
   "git://github.com/hallison/vim-rdoc.git",
