@@ -4,6 +4,7 @@ tap 'homebrew/bundle'
 
 brew install 'cscope'
 brew install 'leiningen'
+brew install 'java'
 brew install 'maven'
 brew install 'pcre'
 brew install 'python'
@@ -21,10 +22,10 @@ brew install 'macvim' --with-cscope --with-lua
 brew install 'openssl'
 brew install 'postgresql'
 brew install 'ruby'
-brew install 'scala'
 brew install 'wget'
 brew install 'ctags'
 brew install 'markdown'
+brew install 'scala'
 
 brew update
 brew tap caskroom/cask
