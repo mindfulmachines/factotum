@@ -1,17 +1,17 @@
 - install [iterm2](https://www.iterm2.com/downloads.html)
 - open iterm2 :)
 - install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh):
- - ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
+  - ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
 - install [tim pope's pathogen] (http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/)
- - ```mkdir -p ~/.vim/autoload ~/.vim/bundle```
- - ```curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim```
+  - ```mkdir -p ~/.vim/autoload ~/.vim/bundle```
+  - ```curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim```
 - copy ruby script (in this repo) for vim plugin management to `.vim` directory like so:
- - ```cp ~/path-to-local-factotum/.vim/update_bundles.rb ~/.vim```
+  - ```cp ~/path-to-local-factotum/.vim/update_bundles.rb ~/.vim```
 - run the aforementioned ruby script like so : `ruby ~/.vim/update_bundles.rb`
 - install homebrew: 
- - ``` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ```
+  - ``` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ```
 - install brew cask: 
- - ``` brew tap caskroom/cask ```
+  - ``` brew tap caskroom/cask ```
 - copy/paste conents of `BrewFile` into your terminal and let it install everything 
 - now set up your `.gitConfig` file!
 - make/customize your `.vimrc` file!
