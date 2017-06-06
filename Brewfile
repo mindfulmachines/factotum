@@ -4,7 +4,6 @@ tap 'homebrew/bundle'
 
 brew install 'cscope'
 brew install 'leiningen'
-brew install 'java'
 brew install 'maven'
 brew install 'pcre'
 brew install 'python'
@@ -26,6 +25,8 @@ brew install 'wget'
 brew install 'ctags'
 brew install 'markdown'
 brew install 'scala'
+brew install 'olafurpg/scalafmt/scalafmt'
+brew install 'pandoc'
 
 brew update
 brew tap caskroom/cask
